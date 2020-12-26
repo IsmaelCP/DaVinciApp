@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonardo Da Vinci</string>
+    <string name="nav_header_subtitle">Genio del Renacimiento</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_salir">Salir</string>
+
+    // Menú Lateral
+    <string name="menu_principal">Da Vinci</string>
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_escultor">Escultor</string>
+    <string name="menu_cientifico">Científico</string>
+    <string name="menu_inventor">Inventor</string>
+
+    // Textos menú lateral
+    // Pintor
+    <string name="titulo_pintor">La última cena</string>
+    <string name="pintura">Pintura</string>
+    <string name="realizada_pintor">Realizada: entre 1495 y 1498.</string>
+    <string name="tecnica_pintor">Técnica: Temple y óleo sobre yeso.</string>
+    <string name="tamano_pintor">Tamaño: 880 x 460 cm.</string>
+    <string name="Localizacion_pintor">Localización: Santa María delle Grazie, Milán, Italia.</string>
+    <string name="observaciones_pintor">La escena recrea la última cena de Pascua entre Jesús y sus apóstoles. Declarado Patrimonio de la Humanidad por la Unesco en 1980. Fue encargada por el duque Ludovico Sforza de Milán. Mural ejecutado al temple y óleo sobre dos capas de preparación de yeso extendidas sobre enlucido. Considerada por muchos expertos e historiadores del arte como una de las mejores obras pictóricas del mundo.</string>
+
+    // Escultor
+    <string name="titulo_escultura">Virgen con el niño riendo</string>
+    <string name="escultura">Escultura</string>
+    <string name="realizada_escultura">Realizada: alrededor de 1472.</string>
+    <string name="tecnica_escultura">Material: arcilla.</string>
+    <string name="tamano_escultura">Estilo: Terracota.</string>
+    <string name="observaciones_escultura">La escultura ha formado parte de la colección del Museo Victoria y Alberto de Londres desde 1858. Sus responsables sorprendieron al mundo al anunciar en marzo de 2019 que la obra fue creada por el propio Leonardo da Vinci. Durante años, el trabajo fue atribuido al artista Antonio Rossellino, pero el experto de arte italiano Francesco Caglioti, afirma que no hay evidencia real que permita afirmar que la escultura fuera obra de Rossellino. Se cree que Leonardo la realizó cuando tenía entre 19 o 20 años, mientras estudiaba con el artista florentino Andrea del Verrochio.</string>
+
+    // Científico
+    <string name="titulo_ciencia">Estudio del embrión humano</string>
+    <string name="ciencia">Ciencia</string>
+    <string name="realizado_ciencia">Realizado: entre 1510 y 1512.</string>
+    <string name="observaciones_ciencia">Estudio de anatomía de un feto en el útero. Los estudios científicos de Leonardo Da Vinci plasmados en dibujos del cuerpo humano son considerados por los expertos como los más detallados y precisos de todo el Renacimiento. Entre 1507 y 1513 diseccionó más de 30 cadáveres de criminales como parte de sus estudios anatómicos. Llenó cientos de páginas de sus cuadernos con documentación y observaciones sobre órganos, vasos sanguíneos, huesos y músculos y los dibujó como nunca antes se habían representado.</string>
+
+    // Inventor
+    <string name="titulo_inventor">Tornillo aéreo</string>
+    <string name="inventor">Inventor</string>
+    <string name="realizado_inventor">Realizado: 1490.</string>
+    <string name="observaciones_inventor">Uno de los diseños más famosos del genio de Milán. Aunque el primer helicóptero real no se construyó hasta la década de 1940, se cree que los bocetos de Leonardo da Vinci de finales del siglo XV fueron los predecesores de la moderna máquina voladora. Como con muchas de las ideas de da Vinci, nunca la construyó ni la probó, pero sus notas y dibujos trazaron exactamente cómo funcionaría el dispositivo. Leonardo quería despegar en vuelo vertical y regresar a tierra de la misma forma. En suma lo que intentaba era inventar el helicóptero. Para ello, se basó en la estructura anatómica y la dinámica de las alas de los pájaros.</string>
+
+    // Menú Opciones
+    <string name="menu_alta">Alta</string>
+    <string name="menu_baja">Baja</string>
+    <string name="menu_modificacion">Modificación</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
